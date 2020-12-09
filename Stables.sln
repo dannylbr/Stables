@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegraeSystems", "IntegraeSystems\IntegraeSystems.csproj", "{C70393F5-02D1-4799-B120-80551A597432}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70393F5-02D1-4799-B120-80551A597432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70393F5-02D1-4799-B120-80551A597432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70393F5-02D1-4799-B120-80551A597432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70393F5-02D1-4799-B120-80551A597432}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41469B2E-E0DB-4FB6-A134-59B2AF95BCFA}
+	EndGlobalSection
+EndGlobal

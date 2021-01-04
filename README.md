@@ -14,4 +14,4 @@ SCHS is SA-PP Cleo Hack Scanner, that I also made to San Andreas Police Pursuits
 ### SCHS Privacy Policy
 PDF with the literal policy this system follows. This was required because of many users running the scanner and fear about your privacy.
 ### SCHSUpdater
-This will keep you updated with the last version without having to download and extract every new version.
+This will keep you updated, always aligned with the last version, without having to download and extract every new one.

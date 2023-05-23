@@ -2,7 +2,7 @@
 
 Welcome!
 Those are the compressed last stables of each one project I'm developing. I'll accept any issue about any application in this very repository.
-I am using Notion to organize my projects, so I am adding as the pages are being created.
+> I am using Notion to organize my projects, so I am adding as the pages are being created.
 ## ErrSol
 ErrSol means Errors and Solutions, it scans errors in your Windows and you can read causes and solutions on cloud easily. It requires registration in my website - currently down :(
 
